@@ -1,0 +1,2 @@
+# scanbar
+Qrcodescanner
